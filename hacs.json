@@ -1,7 +1,5 @@
 {
   "name": "IA para Home Assistant",
   "content_in_root": false,
-  "domains": ["ai_automation_suggester"],
-  "iot_class": "local_push",
   "render_readme": true
 }

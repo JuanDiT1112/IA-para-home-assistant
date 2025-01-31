@@ -3,6 +3,7 @@
   "name": "IA para Home Assistant",
   "version": "1.0.0",
   "documentation": "https://github.com/JuanDiT1112/IA-para-home-assistant",
+  "issue_tracker": "https://github.com/JuanDiT1112/IA-para-home-assistant/issues",
   "dependencies": [],
   "requirements": [],
   "codeowners": ["@JuanDiT1112"],
